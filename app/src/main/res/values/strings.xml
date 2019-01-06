@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mpesa STK Push</string>
+    <string name="MpesaConsumerKey">4MLs15Ca0OUWMZY6HUIunFsLRHmvRVu4</string>
+    <string name="MPesaConsumerSecret">e4O6EbXeI4WI6uTf</string>
+</resources>
