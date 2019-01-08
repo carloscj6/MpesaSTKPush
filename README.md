@@ -4,7 +4,7 @@ Lipa na Mpesa STK Push library Android.
 In your `build.gradle` file add the following dependency;
 ```gradle
 dependencies {
-    'com.revosleap:mpesapush:1.0.0'
+   implementation 'com.revosleap:mpesapush:1.0.0'
 }
 ```
 In your `gradle.properties` file, add the consumer and consumer secret keys given from Safaricom developer site.
