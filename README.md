@@ -79,6 +79,7 @@ val details= TransactionDetails(
    MpesaPay.sendPush(details)
    ```
    and you are good to go. 
+   
    Visit [Safaricom Documentation](https://developer.safaricom.co.ke/lipa-na-m-pesa-online/apis/post/stkpush/v1/processrequest)
    for more information about the given parameters.
    ## Credits
