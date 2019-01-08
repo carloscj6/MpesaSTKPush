@@ -88,6 +88,11 @@ val details= TransactionDetails(
    * Retrofit
    * Retrofit converter Gson
    * okhttp3 Logging interceptor
+## Contributions
+Feel free to fork and create pull requests
+
+##
+Coded with :blue_heart: by [revosleap](https://revosleap.com/).
    
 
 
