@@ -83,7 +83,7 @@ val details= TransactionDetails(
    Visit [Safaricom Documentation](https://developer.safaricom.co.ke/lipa-na-m-pesa-online/apis/post/stkpush/v1/processrequest)
    for more information about the given parameters.
    ## Credits
-   Thanks to [This project](https://github.com/safaricom/LNMOnlineAndroidSample) for the inspiration to come up with this.
+   Thanks to [LNMOnlineAndroidSample](https://github.com/safaricom/LNMOnlineAndroidSample) for the inspiration to come up with this library.
    ### Libraries used
    * Retrofit
    * Retrofit converter Gson
